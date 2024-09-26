@@ -69,6 +69,7 @@ This Challenge is graded based on the following criteria:
 * Application GitHub URL submitted.
 
 * GitHub repository that contains application code.
+* Deployed site - https://abdihakim2334.github.io/Weather-API/
 
 ### Application Quality: 15%
 
